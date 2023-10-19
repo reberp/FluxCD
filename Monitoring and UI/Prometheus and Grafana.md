@@ -29,7 +29,7 @@ flux create kustomization monitoring-config --interval 1h --prune true --source 
 
 Go to dashboard and can see podMonitor on targets. 
 
-![[Pasted image 20231019085817.png]]
+![Pasted image 20231019092610.png](<Pasted image 20231019092610.png>)
 
 gotk_reconcile_condition shows on dashboard as having events coming in. Not sure what that object represents. 
 ## Grafana
