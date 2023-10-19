@@ -13,4 +13,4 @@ k -n flux-system get svc #will have to expose ww-gitops service
 k -n flux-system edit svc [name]
 ```
 Can't add things with weave UI. 
-![[Pasted image 20231019092610.png]]
+![Pasted image 20231019092610.png](<Pasted image 20231019092610.png>)

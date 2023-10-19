@@ -35,5 +35,5 @@ gotk_reconcile_condition shows on dashboard as having events coming in. Not sure
 ## Grafana
 
 Works at this point. Can be used to show metrics like git operations per minute. Success and Fails. Etc. 
-![[Pasted image 20231019090442.png]]
+![Pasted image 20231019090442.png](<Pasted image 20231019090442.png>)
 
